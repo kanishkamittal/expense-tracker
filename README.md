@@ -1,9 +1,6 @@
 ### Expense Tracker
 
-   **Language**	: Javascript
-   **Platform**	: NodeJS
-   **Framework**: ExpressJS
-   **Database**	: MongoDB
+ # MERN stack
 
  ### Follow these steps
  ```
